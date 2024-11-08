@@ -1,0 +1,25 @@
+/* Style 1 CSS */
+body {
+  background-color: rgba(38, 8, 66, 0.87);
+}
+
+.navbar {
+  margin: 0 auto;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.247);
+}
+
+.btn {
+  font-family: "Creepster", system-ui;
+  font-size: 4rem;
+  justify-content: center;
+  color: rgb(45, 5, 63);
+  justify-content: space-bewteen;
+  margin-right: 4px;
+}
+
+.image-placer img {
+  width: 100%;
+  box-shadow: 5px 5px 5px 5px white;
+}
